@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(49, 118, 254);
+    font-size: medium;
+}
+body{
+    background-image:url(images/aspot-desktop-1923x1302-344457937\ 1.png) ;
+}
+p{
+    color: cadetblue;
+    font-size: 42px;
+}
+section{
+    color: cadetblue;
+    font-size: 42px;
+}
+footer{
+    color:aliceblue;
+}
+.home{
+    text-align: center;
+    color: honeydew;
+}
+.logo-site{
+    width: 10px;
+    height: auto;
+}
